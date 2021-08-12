@@ -5,6 +5,9 @@ Second line added in code for practice
 
 third line added
 
+
 verify for conflict scenario
+
+Adding code change in B1 branch and merge to master B1
 
 fifth line added 
